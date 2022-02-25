@@ -10,5 +10,6 @@ En los ultimos años, con el aumento del volumen de vehículos en las ciudades, 
 </p>
 <p align = "center">
   <b>Objetivo del Proyecto
+   </p>
      Determinar por medio de un algoritmo, la ruta más corta para recorrer varios puntos dados por una base de datos en las ciudades de Bucaramanga y Floridablanca.</b>
 </p>
