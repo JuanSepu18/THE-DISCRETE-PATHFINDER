@@ -1,6 +1,7 @@
-# THE-DISCRETE-PATHFINDER
+<# THE-DISCRETE-PATHFINDER
 <p align = "center">
- <img src = "https://user-images.githubusercontent.com/98781350/155628266-19188afc-4ed0-488e-87e2-8dd1c453ef8b.jpeg">
+ <img src = "https://user-images.githubusercontent.com/98678182/156864171-98bc41bd-a2fe-4044-8649-06cd9f4676c9.png">
+
 </p>
 <p align = "center">
  <img src = "https://user-images.githubusercontent.com/98678182/156783273-e3163bf1-49a6-4372-aa47-53bfdccf31a5.png">
