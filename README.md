@@ -1,6 +1,6 @@
 <# THE-DISCRETE-PATHFINDER
 <p align = "center">
- <img src = "https://user-images.githubusercontent.com/98678182/156864273-39f424f0-cbe6-43b2-b546-dfdbf25d5e97.png"
+ <img src = "https://media.discordapp.net/attachments/885748480897843200/949492842143821886/Discrete_Pathfinder_Logo.jpeg">
 </p>
 <p align = "center">
  <img src = "https://user-images.githubusercontent.com/98678182/156783273-e3163bf1-49a6-4372-aa47-53bfdccf31a5.png">
