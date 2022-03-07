@@ -14,3 +14,9 @@ En los ultimos años, con el aumento del volumen de vehículos en las ciudades, 
    <p align = "center">
      Determinar por medio de un algoritmo, la ruta más corta para recorrer varios puntos dados por una base de datos en las ciudades de Bucaramanga y Floridablanca.
 </p>
+<p align = "center">
+ <b> Enlace del video: </b>
+</p>
+<p align = "center">
+ https://www.youtube.com/watch?v=MhiOusWnNIc
+ </p>
