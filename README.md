@@ -24,7 +24,10 @@ En los ultimos años, con el aumento del volumen de vehículos en las ciudades, 
  https://www.youtube.com/watch?v=MhiOusWnNIc
  </p>
 <p align = "center">
- Pasos para probar el proyecto:
- 
- 1. Descargue una copia del código en Google Colab, así mismo, descargue el documento 
+ <b>Pasos para probar el proyecto:</b>
  </p>
+ 
+ 1. Descargue una copia del código del proyecto en Google Colab, así mismo, descargue el documento llamado Datos_Direcciones, y llénelo con los datos que vaya a usar.
+ 2. Cargue el archivo Datos_Direcciones a su carpeta "My drive" desde Google Colab.
+ 3. Compile cada una de las partes del código hasta el final.
+ 
