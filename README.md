@@ -1,4 +1,4 @@
-< THE-DISCRETE-PATHFINDER
+THE-DISCRETE-PATHFINDER
 <p align = "center">
  <img src = "https://media.discordapp.net/attachments/885748480897843200/949492842143821886/Discrete_Pathfinder_Logo.jpeg">
 </p>
