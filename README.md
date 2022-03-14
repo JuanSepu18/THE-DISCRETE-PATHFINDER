@@ -23,3 +23,8 @@ En los ultimos años, con el aumento del volumen de vehículos en las ciudades, 
 <p align = "center">
  https://www.youtube.com/watch?v=MhiOusWnNIc
  </p>
+<p align = "center">
+ Pasos para probar el proyecto:
+ 
+ 1. Descargue una copia del código en Google Colab, así mismo, descargue el documento 
+ </p>
